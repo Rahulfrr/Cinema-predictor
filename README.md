@@ -50,14 +50,23 @@ Actual Hit           33                60
 
 cinema_predictor/
 ├── imdb_top_1000.csv                    (Original dataset)
+
 ├── imdb_cleaned_hit_flop.csv            (Cleaned data with target)
+
 ├── 1_data_exploration.py                (EDA)
+
 ├── 2_data_preprocessing.py              (Data cleaning & feature engineering)
+
 ├── 3_model_training.py                  (ML model training & evaluation)
+
 ├── 4_visualizations.py                  (Dashboard creation)
+
 ├── hit_flop_model.pkl                   (Trained model)
+
 ├── movie_analysis_dashboard.png         (Analysis visualizations)
+
 ├── feature_importance.png               (Feature importance chart)
+
 └── README.md                            (This file)
 
 
