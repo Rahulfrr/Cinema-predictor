@@ -49,6 +49,7 @@ Actual Hit           33                60
 ## Project Structure
 
 cinema_predictor/
+
 ├── imdb_top_1000.csv                    (Original dataset)
 
 ├── imdb_cleaned_hit_flop.csv            (Cleaned data with target)
